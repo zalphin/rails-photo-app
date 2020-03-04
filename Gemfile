@@ -27,8 +27,9 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
-gem 'devise-bootstrap-views'
+gem 'devise-bootstrap-views' 
 gem 'jquery-rails'
+gem 'sendgrid-ruby'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
